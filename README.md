@@ -4,7 +4,7 @@
 
 # Profil
 
-__Mitt namn är Viktor Gustafsson.__
+__Mitt namn är Viktor Gustafsson. Jag är 29 år gammal, och har i hela mitt liv bott i Gnesta.__
 
 ---
 
@@ -24,5 +24,13 @@ Jag har även hittat en ny hobby i form av kajakpaddlande och legobyggande, men 
 - Zelda Ocarina of Time
 - Metroid Prime
 - Xcom 2
+
+**2. Favoritfilmer?**
+
+- The Big Lebowski
+- The Lighthouse
+- Reservoir dogs
+- Toy Story
+- Goodfellas
 
 ---
