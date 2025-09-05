@@ -24,7 +24,7 @@ lite mer samt utmanar min kreativa sida. Påminner lite om när jag gör Sudoku.
 ## Tidigare yrken? ##
 
 Jag har tidigare arbetat inom service yrken som livsmedelshandel och supporttekniker.
-Som supporttekniker har jag exempelvis arbetat både med datorer fysiskt samt med felsökning inom operativsystemet. 
+Som supporttekniker har jag exempelvis arbetat både med datorer fysiskt samt med felsökning inom operativsystemet. 1.
 
 **1. Favoritspel?**
 
