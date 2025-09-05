@@ -6,7 +6,7 @@
 
 __Mitt namn är Viktor Gustafsson. Jag är 29 år gammal, och har i hela mitt liv bott i Gnesta.__
 Jag har gymnasieutbildning inom spelgrafik, och har arbetat i livsmedelsbutik samt som supporttekniker.
-Jag har ett stort intresse för teknik samt har tecknat i princip hela mitt liv.
+Jag har ett stort intresse för teknik samt har tecknat i princip hela mitt liv. 1.
 ---
 
 ## Intressen
