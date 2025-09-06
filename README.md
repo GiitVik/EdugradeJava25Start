@@ -4,7 +4,7 @@
 
 # Profil
 
-__Mitt namn är Viktor Gustafsson. Jag är 29 år gammal, och har i hela mitt liv bott i Gnesta.__
+__Mitt namn är Viktor Gustafsson, och gag är 29 år gammal.__
 Jag har gymnasieutbildning inom spelgrafik, och har arbetat i livsmedelsbutik samt som supporttekniker.
 Jag har ett stort intresse för teknik samt har tecknat i princip hela mitt liv.
 ---
@@ -25,14 +25,15 @@ lite mer samt utmanar min kreativa sida. Påminner lite om när jag gör Sudoku.
 
 Jag har tidigare arbetat inom service yrken som livsmedelshandel och supporttekniker.
 Som supporttekniker har jag exempelvis arbetat både med datorer fysiskt samt med felsökning inom operativsystemet.
+
 Jag har ej jobbat på ett tag numera, så därför har jag intresserat mig för att börja studera igen. Då det är väldigt eftertraktande med programmerare idag och i framtiden, så känns det som ett vettigt alternativ att studera Java.
 
 **1. Favoritspel?**
 
-- Banjo - Kazooie
-- Dark Souls
-- Crash Bandicoot
-- Metroid Prime
+- Banjo - Kazooie (Nintendo 64/Nintendo Switch)
+- Dark Souls (Playstation 4/PC/Nintendo Switch)
+- Crash Bandicoot (Playstation 1/Playstation 4)
+- Metroid Prime (Gamecube/Nintendo Wii)
 
 **2. Favoritfilmer?**
 
