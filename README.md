@@ -6,18 +6,18 @@
 
 __Mitt namn är Viktor Gustafsson, och gag är 29 år gammal.__
 Jag har gymnasieutbildning inom spelgrafik, och har arbetat i livsmedelsbutik samt som supporttekniker.
-Jag har ett stort intresse för teknik samt har tecknat i princip hela mitt liv.
+Jag har ett stort intresse för teknik, spel, samt har tecknat i princip hela mitt liv.
 ---
 
 ## Intressen
 
 Mitt huvudsakliga intresse är tv-spel, men jag är även intresserad av matlagning och filmer som exempel.
 Jag har även hittat en ny hobby i form av kajakpaddlande och legobyggande, men jag gör ej detta lika ofta.
-Det är inte lika enkelt att utföra då vissa hobbyintressen antingen kostar mycket pengar (Legobyggande/datorbyggande)
+Det är inte lika enkelt att sysselsätta sig med då vissa hobbyintressen antingen kostar mycket pengar (Legobyggande/datorbyggande)
 eller kräver en del planering (kajakpaddlande).
 Därför förblir tv-spel ett primärt intresse då det är enklare att göra och kräver inte särskilt mycket planering.
 Jag gillar förstås också att skissa eller teckna en del beroende på mitt humör, att skissa brukar motivera mig
-lite mer samt utmanar min kreativa sida. Påminner lite om när jag gör Sudoku.
+lite mer samt utmanar min kreativa sida.
 
 ---
 
