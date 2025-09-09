@@ -26,25 +26,26 @@ lite mer samt utmanar min kreativa sida. Påminner lite om när jag gör Sudoku.
 Jag har tidigare arbetat inom service yrken som livsmedelshandel och supporttekniker.
 Som supporttekniker har jag exempelvis arbetat både med datorer fysiskt samt med felsökning inom operativsystemet.
 
-Jag har ej jobbat på ett tag numera, så därför har jag intresserat mig för att börja studera igen. Då det är väldigt eftertraktande med programmerare idag och i framtiden, så känns det som ett vettigt alternativ att studera Java.
+Jag har ej jobbat på ett tag numera, så därför har jag intresserat mig för att börja studera igen. Då det är väldigt eftertraktat med programmerare idag och i framtiden, så därför känns det som ett vettigt alternativ att studera Java.
 
 **1. Favoritspel?**
 
-- Banjo - Kazooie (Nintendo 64/Nintendo Switch)
-- Dark Souls (Playstation 4/PC/Nintendo Switch)
-- Crash Bandicoot (Playstation 1/Playstation 4)
-- Metroid Prime (Gamecube/Nintendo Wii)
+- Banjo - Kazooie
+- Dark Souls
+- Crash Bandicoot
+- Metroid Prime
 
 **2. Favoritfilmer?**
 
 - The Big Lebowski
 - The Lighthouse
 - Reservoir dogs
-- Goodfellas
+- The Incredibles
 
 **3. Aktivitetsrekommendationer?**
 
-- Sudoku! Väldigt bra för problemlösning, användbart för programmeringshjärnan.
+- Sudoku! Väldigt bra för problemlösning, kul aktivitet vid sidan om programmering.
 - Paddla kajak! Väldigt kul aktivitet när man lär sig, kan vara läskigt i början men det går fort att lära sig. Rogivande och avslappnande aktivitet.
-
+- Samlarkort! Magic The Gathering är rekommenderat att spela om man exempelvis har bekantat sig med "Hearthstone", vilket är ett digitalt kortspel av Blizzard som har fått en del inspiration från Magic, liknande spelregler.
+Om man ej är intresserad att spela med korten kan det ändå vara en kul aktivitet att samla på korten då "konsten" i korten är av hög kvalitet.
 ---
