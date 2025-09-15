@@ -4,7 +4,7 @@
 
 # Profil
 
-__Mitt namn är Viktor Gustafsson, och gag är 29 år gammal.__
+__Mitt namn är Viktor Gustafsson, och jag är 29 år gammal.__
 Jag har gymnasieutbildning inom spelgrafik, och har arbetat i livsmedelsbutik samt som supporttekniker.
 Jag har ett stort intresse för teknik, spel, samt har tecknat i princip hela mitt liv.
 ---
